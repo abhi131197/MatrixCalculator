@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MatrixCalculator</string>
+    <string name="lambda_A">λ * A</string>
+    <string name="title_activity_input">InputA</string>
+    <string name="title_activity_b__input">B_Input</string>
+    <string name="title_activity_c__input">C_Input</string>
+</resources>
